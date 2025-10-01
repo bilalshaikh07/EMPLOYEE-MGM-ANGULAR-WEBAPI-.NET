@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ANGULAR\\ERPAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{319638BF-1D78-4E54-97DB-82209F683EF5}|ERPAPI\\ERPAPI.csproj|d:\\angular\\erpapi\\erpapi\\controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319638BF-1D78-4E54-97DB-82209F683EF5}|ERPAPI\\ERPAPI.csproj|solutionrelative:erpapi\\controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319638BF-1D78-4E54-97DB-82209F683EF5}|ERPAPI\\ERPAPI.csproj|d:\\angular\\erpapi\\erpapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319638BF-1D78-4E54-97DB-82209F683EF5}|ERPAPI\\ERPAPI.csproj|solutionrelative:erpapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeAPIController.cs",
+              "DocumentMoniker": "D:\\ANGULAR\\ERPAPI\\ERPAPI\\Controllers\\EmployeeAPIController.cs",
+              "RelativeDocumentMoniker": "ERPAPI\\Controllers\\EmployeeAPIController.cs",
+              "ToolTip": "D:\\ANGULAR\\ERPAPI\\ERPAPI\\Controllers\\EmployeeAPIController.cs",
+              "RelativeToolTip": "ERPAPI\\Controllers\\EmployeeAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:03:16.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ANGULAR\\ERPAPI\\ERPAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ERPAPI\\Program.cs",
+              "ToolTip": "D:\\ANGULAR\\ERPAPI\\ERPAPI\\Program.cs",
+              "RelativeToolTip": "ERPAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:54:30.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
